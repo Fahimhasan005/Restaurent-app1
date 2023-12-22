@@ -33,7 +33,7 @@ class OnboardingViewController: UIViewController {
             }
         }
     }
-    
+    let name = "Fahim"
     
     override func viewDidLoad() {
         super.viewDidLoad()
