@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "47EC05C0-30C5-41F2-83FD-A4BCA5968880"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BA7E0CEA-942F-4995-B5EB-89D9601FC7E6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RestaurentApp/Views/Onboarding/OnboardingViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "OnboardingViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "BA7E0CEA-942F-4995-B5EB-89D9601FC7E6 - 46d0905fc4a796cb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RestaurentApp.OnboardingViewController.slides.getter : Swift.Array&lt;RestaurentApp.OnboardingSlide&gt;"
+                  moduleName = "RestaurentApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fahim/Dropbox/Mac/Desktop/RestaurentApp/RestaurentApp/Views/Onboarding/OnboardingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "BA7E0CEA-942F-4995-B5EB-89D9601FC7E6 - 63bc84df4a5cf7ff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RestaurentApp.OnboardingViewController.slides.setter : Swift.Array&lt;RestaurentApp.OnboardingSlide&gt;"
+                  moduleName = "RestaurentApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fahim/Dropbox/Mac/Desktop/RestaurentApp/RestaurentApp/Views/Onboarding/OnboardingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "BA7E0CEA-942F-4995-B5EB-89D9601FC7E6 - ffaaea978eaf64ca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RestaurentApp.OnboardingViewController.slides.modify : Swift.Array&lt;RestaurentApp.OnboardingSlide&gt;"
+                  moduleName = "RestaurentApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fahim/Dropbox/Mac/Desktop/RestaurentApp/RestaurentApp/Views/Onboarding/OnboardingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "BA7E0CEA-942F-4995-B5EB-89D9601FC7E6 - af9a8b2b22681f24"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RestaurentApp.OnboardingViewController.slides.modify : Swift.Array&lt;RestaurentApp.OnboardingSlide&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "RestaurentApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fahim/Dropbox/Mac/Desktop/RestaurentApp/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "15">
+               </Location>
+               <Location
+                  uuid = "BA7E0CEA-942F-4995-B5EB-89D9601FC7E6 - 1dac9c1e5c297520"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RestaurentApp.OnboardingViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; RestaurentApp.OnboardingViewController"
+                  moduleName = "RestaurentApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fahim/Dropbox/Mac/Desktop/RestaurentApp/RestaurentApp/Views/Onboarding/OnboardingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "282">
+               </Location>
+               <Location
+                  uuid = "BA7E0CEA-942F-4995-B5EB-89D9601FC7E6 - 1b218e94453ac025"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RestaurentApp.OnboardingViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;RestaurentApp.OnboardingViewController&gt;"
+                  moduleName = "RestaurentApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fahim/Dropbox/Mac/Desktop/RestaurentApp/RestaurentApp/Views/Onboarding/OnboardingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "239">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AF8B2DA1-8233-4CCE-9266-B424F841C2CC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RestaurentApp/Views/Onboarding/OnboardingViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "nextButtonClicked(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C20E9FB3-4A62-4B77-B684-DB4D9365B5F7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RestaurentApp/Views/Onboarding/OnboardingViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "nextButtonClicked(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "98634AAE-1D0B-4210-A15D-CCF43D5D3E6E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RestaurentApp/Views/Onboarding/OnboardingViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "currentPage"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
